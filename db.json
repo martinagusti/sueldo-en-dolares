@@ -1,0 +1,35 @@
+{
+  "dolar":[
+    {
+      "id":1,
+      "blue":"291"
+    },
+    {
+      "id":2,
+      "soja":"300"
+    },
+    {
+      "id":3,
+      "tarjeta":"350"
+    },
+    {
+      "id":4,
+      "qatar":"325"
+    }
+  ],
+  "euro":[
+    {
+      "id":1,
+      "nombre":"geo"
+    },
+    {
+      "id":2,
+      "nombre":"isa"
+    },
+    {
+      "id":3,
+      "nombre":"ricardo"
+    }
+  ]
+
+}
